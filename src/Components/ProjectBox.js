@@ -9,6 +9,10 @@ const  ProjectBox = ({projectPhoto, projectName}) => {
     MinioGithub : "https://github.com/Deepthipenjarla/MinioImage",
     MinioWebsite : "",
 
+    VirtualMouseusingOpenCVDesc : "Experience the future of human-computer interaction with my Virtual Mouse project, utilizing OpenCV for intuitive, hands-free control.",
+    VirtualMouseusingOpenCVGithub:"https://github.com/Deepthipenjarla/Finalyear_project.git",
+    VirtualMouseusingOpenCVWebsite:"",
+
     ResponsiveDesc : "Responsive design is crucial for ensuring that your web application looks and functions well on various devices, adapting seamlessly to different screen sizes and orientations. Prioritize fluid layouts, flexible grids, and media queries to create a user-friendly experience, guaranteeing optimal usability and engagement across desktops, tablets, and mobile devices.",
     ResponsiveGithub : "https://github.com/Deepthipenjarla/Responsive-Task-Nov",
     ResponsiveWebsite : "",

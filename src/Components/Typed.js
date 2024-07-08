@@ -6,7 +6,7 @@ const Typed = () => {
     <div className="TypeEffect">
       <Typewriter
         options={{
-          strings: ['Frontend Developer', 'MERN Stack Developer'],
+          strings: ['Frontend Developer', 'MERN Stack Developer','Programmer'],
           autoStart: true,
           loop: true,
           delay: 70,

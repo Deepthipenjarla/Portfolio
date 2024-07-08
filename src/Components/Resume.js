@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { BsDownload } from "react-icons/bs";
-import pdf from "../DEEPTHI SAI LAKSHMI PENJARLA.pdf";
+import pdf from "../sai_lakshmi.pdf";
 import { Document, Page, pdfjs } from 'react-pdf';
 import 'react-pdf/dist/esm/Page/AnnotationLayer.css';
 import 'react-pdf/dist/esm/Page/TextLayer.css';
@@ -34,7 +34,7 @@ const Resume = () => {
         ))}
       </Document>
 
-      <a href={pdf} target='_blank' download="Deepthi Resume">
+      <a href={pdf} target='blank' download="Deepthi Resume">
         <button className='downloadCV' type='button'>
           <h3><BsDownload/>&nbsp; Download CV</h3>
         </button>

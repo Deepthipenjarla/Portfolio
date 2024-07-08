@@ -14,14 +14,13 @@ const About = () => {
 </h1>
 
           <p>
-            Hi, my name is <b>PENJARLA DEEPTHI SAI LAKSHMI </b> and I am from Andhra Pradesh, India.
-           <br></br>
-            I'm a <b>MERN stack web developer</b> currently pursuing  B.Tech Final year in the Stream of Artificial Intelligence at KIETW Kakinda.
-           <br></br>
-            I'm expanding my expertise as a remote Research Intern with IIIT Hyderabad.
-           <br></br>
-            I am <b>Open</b> to new Collaborations or work where I can Contribute and Grow. Feel free to connect with me, links are in the footer.<br/>
-          
+          <h5> Hi, my name is <b>PENJARLA DEEPTHI SAI LAKSHMI </b> and I am from Andhra Pradesh, India.</h5>
+           <h5> I'm a <b>Graduate</b> in the Stream of Artificial Intelligence at KIETW,Kakinda.</h5>
+           <h5>I'm expanding my expertise as a remote Research Intern with IIIT Hyderabad.</h5><h5> I am <b>Open</b> to new Collaborations or work where I can Contribute and Grow. Feel free to connect with me, links are in the footer.</h5><br/>
+            <b>Other than Academic</b>
+            <br></br>
+            <h5>👉I am NCC Cadet where i leaded a Contingent of KIET Group.</h5>
+            <h5>👉Joined as Coordinator at KIET GROUP & on my journey of innovation and leadership.</h5>
           </p>
         </div>
 

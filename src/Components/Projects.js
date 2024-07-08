@@ -4,7 +4,6 @@ import FlexibleDesignImage from '../images/FlexibleDesignImage.png';
 import ResponsiveImage from '../images/ResponsiveImage.png';
 import MinioImage from '../images/MinioImage.png';
 import DatavisualizationImage from '../images/DatavisualizationImage.png';
-
 const Projects = () => {
   return (
     <div>
